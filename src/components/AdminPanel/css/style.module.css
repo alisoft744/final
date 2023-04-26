@@ -1,0 +1,11 @@
+.heading {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 50px;
+  line-height: 59px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+  margin: 52px 0 0 52px;
+}

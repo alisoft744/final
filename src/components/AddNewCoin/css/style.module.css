@@ -1,0 +1,14 @@
+.container_add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  margin-right: 20px;
+}
+.container_addcoin{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,32 @@
+.container {
+    height: 120px;
+  display: flex;
+  margin-bottom: 25px;
+  margin-right: 150px;
+}
+.container2 {
+  width: 225px;
+}
+.container2 h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #833ae0;
+  margin-bottom: 5px;
+}
+.container2 p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 125.5%;
+}
+
+.img {
+  width: 120px;
+  height: 120px;
+  margin-right: 30px;
+}

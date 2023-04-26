@@ -1,0 +1,17 @@
+.container {
+  background-color: #833ae0;
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  width: 100%;
+  border-radius: 20px;
+  font-size: 20px;
+}
+.container li {
+  margin: 30px;
+}
+.link{
+    color: white;
+    text-decoration: none;
+
+}

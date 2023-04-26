@@ -1,0 +1,46 @@
+
+
+
+
+.label_field {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 109%;
+    
+  }
+
+  .input_box {
+    width: 374px;
+    height: 48px;
+    margin: 10px 0 10px 0;
+  }
+
+
+.filter {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 109%;
+    text-decoration: underline;
+  }
+  
+  .input {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 109%;
+  }
+
+  .btn {
+    width: 120px;
+    height: 48px;
+    background: #833ae0;
+    margin-left: 30px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+  
+    color: #ffffff;
+  }
+

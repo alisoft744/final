@@ -1,0 +1,22 @@
+.input {
+  margin-bottom: 20px;
+  width: 374px;
+  height: 48px;
+}
+.btn {
+  width: 120px;
+  height: 48px;
+  margin-top: 10px;
+  background: #833ae0;
+  color: white;
+}
+.input_container {
+  display: flex;
+  flex-direction: column;
+}
+.label {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 109%;
+  margin-bottom: 5px;
+}
